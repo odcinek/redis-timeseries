@@ -1,0 +1,16 @@
+PATH
+  remote: .
+  specs:
+    redis-timeseries (0.0.4)
+      redis (>= 2.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    redis (3.0.6)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  redis-timeseries!
